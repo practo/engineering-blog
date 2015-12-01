@@ -5,7 +5,7 @@ email: your-email@domain.com
 description: >
     Description goes here
 url: "http://practo.com"
-baseurl: "/blog"
+baseurl: "/engineering-blog"
 twitter_username: practo
 github_username:  practo
 
