@@ -1,6 +1,9 @@
 # Engineering Blog
 
-Setup instructions
+### Demo
+http://practo.github.io/engineering-blog/
+
+### Setup instructions
 
 1. Clone repo
 2. `gem install jekyll`
@@ -8,5 +11,6 @@ Setup instructions
 
 Uses Jekyll theme based on the Roon for [Ghost](http://github.com/tryghost/roon/).
 
-## For More Information
+### For More Information
 For more on info, check [vormwald/joon](https://github.com/vormwald/joon).
+
