@@ -361,7 +361,7 @@ body>header h1 {
     font-weight: bold
 }
 body>header h1 a {
-    color: #21272d
+    color: #fff;
 }
 body.noimage {
     border-top-width: 4px;
@@ -753,7 +753,10 @@ article.image {
 }
 body.user>header {
     position: relative;
-    margin-bottom: 80px
+    margin-bottom: 80px;
+    background: url('https://www.practo.com/assets/images/kp.jpg');
+    min-height: 300px;
+    background-size: cover;
 }
 body.user>header .wrap {
     display: -moz-inline-stack;
@@ -769,6 +772,7 @@ body.user>header h1 {
     padding-bottom: 10px;
     padding-top: 80px;
     font-weight: normal
+    color: #FFF;
 }
 body.user>header hr {
     margin: 0 25%
