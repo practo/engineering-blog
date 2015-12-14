@@ -4,8 +4,8 @@ logo: logo.svg
 email: your-email@domain.com
 description: >
     Description goes here
-url: "http://practo.com"
-baseurl: "/engineering-blog"
+url: "http://practo.github.io"
+baseurl: "/"
 twitter_username: practo
 github_username:  practo
 
